@@ -2,7 +2,8 @@ README
 # America's Weather and Beekeeper's Business Analysis
 
 ## Background
-![Alt Text]("C:\Users\iftah\Desktop\data analyst studies\project\Ivry B\icon.png")
+![](C:/Users/iftah/Desktop/data analyst studies/project/Ivry B/icon.png)
+
 Ivry-B, a startup that sells home-made, self-build kits of beehives, is preparing for crowd-funding and has set a few goals:
 
 1. Find if the weather affects the market distribution of beekeeper's associations across the USA.
@@ -21,7 +22,6 @@ Identify if there is a correlation between weather and market distribution (beek
 Inspect the proportions of beekeeping organizations for each region and identify any trends or patterns.
 Define the market size for each state to help focus marketing efforts.
 Our results are summarized as follows:
-
 No significant correlation was found between weather and market distribution of beekeeper's associations across the USA.
 Our analysis did not reveal any trends or patterns in the proportions of beekeeping organizations across different regions.
 We identified the top states in each region that could be targeted for marketing efforts based on their market size.
