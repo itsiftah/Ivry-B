@@ -1,6 +1,4 @@
 README
-Sure, here's a possible upgrade to your README:
-
 # America's Weather and Beekeeper's Business Analysis
 
 ## Background
