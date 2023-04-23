@@ -2,7 +2,7 @@ README
 # America's Weather and Beekeeper's Business Analysis
 
 ## Background
-![](C:/Users/iftah/Desktop/data analyst studies/project/Ivry B/icon.png)
+![Icon](C:/Users/iftah/Desktop/data analyst studies/project/Ivry B/icon.png)
 
 Ivry-B, a startup that sells home-made, self-build kits of beehives, is preparing for crowd-funding and has set a few goals:
 
